@@ -1,1 +1,2 @@
-# psy120l-final-report1
+# Perspectives on Romantic Relationships
+This repository contains the published HTML version of my PSY 120L final reproducible report. This project examined whether the opinions of one’s family and friends affect relationship satisfaction and commitment, depending on individual susceptibility to interpersonal influence. The report was created using Quarto and R. The published report file is index.html. The dataset is not included in this repository.
